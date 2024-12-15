@@ -1,0 +1,5 @@
+/* Custom shadow class for orange shadow */
+.hover-orange-shadow:hover {
+     box-shadow: 0px 22px 70px 4px rgba(225, 104, 17, 0.56);
+     /* Orange shadow */
+}
